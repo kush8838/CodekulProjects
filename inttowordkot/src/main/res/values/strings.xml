@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntToWordKot</string>
+    <string name="BtnConvert">Button</string>
+    <string name="etWord">Name</string>
+</resources>
